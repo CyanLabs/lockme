@@ -1,7 +1,6 @@
 lockme
 ======
 
-<<<<<<< HEAD
 A simple and handy tool that enables you to lock your computer using a custom image or video.
 
 Features
@@ -15,7 +14,6 @@ Use keybinds to lock computer instantly, just like windows built in lockscreen (
 Auto updater
 Multi Monitor Support (ALPHA)
 100% transparent option no image or video just a lock bar (Coming Soon, WIP, v3.x)
-Visit us on twitter.com/965mods or facebook.com/965mods or at 965mods.co.uk for latest info
 =======
 A simple and handy tool that enables you to lock your computer using a custom image or video.
 >>>>>>> origin/master
